@@ -39,5 +39,14 @@ end
 
 
 
+# Yer Review
+# creating a guessing game
+# create while loop - while the guess is NOT equal to the secret word, keep on guessing
+# create a conditional to check if the check count is still less than the count limit
+# if it's less than, we allow user to keep guessing
+# if the user has met the guess limit, they'll get a message about losing
+
+
+
 
 #
