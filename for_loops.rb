@@ -20,10 +20,12 @@ for index in 0..5
 end # this will print out 0-5
 
 
-#
+# second way to loop through a specific number of time
 6.times do |index|
   puts index
 end
+
+
 
 
 
