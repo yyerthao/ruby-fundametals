@@ -1,3 +1,4 @@
+# ------------------------- GETTING INPUT
 
 # install platforio-ide-terminal within Preferences first
 

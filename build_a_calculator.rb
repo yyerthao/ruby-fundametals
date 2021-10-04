@@ -1,3 +1,5 @@
+# ------------------------- BUILDING A SIMPLE CALCULATOR
+
 
 #addition feature
 puts "Enter a number: "

@@ -1,3 +1,5 @@
+# ------------------------- MODULE TESTING FROm modules.rb
+
 # in order to use a module from another file, must use keyword REQUIRE
 
 # this allows us to input a file name in the same directory of this file

@@ -1,3 +1,5 @@
+# ------------------------- ARRAYS
+
 
 friends = Array["Kevin", "Oscar", "Angela", "Michael"]
 puts friends[0] # will print out Kevin

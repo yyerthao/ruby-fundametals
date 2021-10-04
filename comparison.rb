@@ -1,4 +1,4 @@
-# IF STATEMENTS WITH COMPARISONS
+# ------------------------- IF STATEMENTS WITH COMPARISON OPERATORS 
 
 #creating a method to take 3 parameters
 # will return largest number

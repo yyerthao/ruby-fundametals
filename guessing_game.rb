@@ -1,4 +1,4 @@
-# ------------------------ Building a guessing game in Ruby
+# ------------------------ BUIDLING A GUESSING GAME IN RUBY
 
 # setting the secret word
 secret_word = "watermelon"

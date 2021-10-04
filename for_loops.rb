@@ -1,4 +1,4 @@
-# ----------------------- For Loops
+# ----------------------- FOR LOOPS
 
 friends = Array["Dwight", "Jim", "Angela", "Michael", "Pam"]
 

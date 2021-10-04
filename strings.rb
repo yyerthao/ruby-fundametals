@@ -1,4 +1,5 @@
-#not a fancy string
+# ------------------------- STRINGS
+
 puts "Wonderful Life"
 
 #how to print out a quotation mark

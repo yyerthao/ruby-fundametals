@@ -1,4 +1,4 @@
-# Building a better calculator
+# ------------------------- BUILDING A BETTER CALCULATOR
 
 puts "Enter first number: "
 num1 = gets.chomp().to_f #converted to floating point numbers

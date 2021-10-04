@@ -1,3 +1,5 @@
+# ------------------------- MADLIBS with GETS
+
 
 puts "Enter a color: "
 color = gets.chomp()

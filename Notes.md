@@ -1,3 +1,4 @@
+<!------------------------ NOTES -->
 # Notes
 
 ### How to interact with files in Ruby
@@ -30,3 +31,7 @@ Mode |  Meaning
 -----+--------------------------------------------------------
 "t"  |  Text file mode (may appear with
      |  any of the key letters listed above except "b").
+
+
+### IRB
+* Ruby playground for writing Ruby code

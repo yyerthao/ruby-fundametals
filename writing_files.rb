@@ -1,4 +1,4 @@
-# ---------------------- How to write information TO files
+# ---------------------- HOW TO WRITE INFORMATION TO RUBY FILES
 
 # a appends info at the end of this file
 File.open("theoffice.txt", "a") do |file|

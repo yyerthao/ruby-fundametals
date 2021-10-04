@@ -1,3 +1,5 @@
+# ------------------------- HASHES
+
 # hash is similiar to an array
 # allows us to store multiple pieces of information
 # MAIN THING: storing key value pair

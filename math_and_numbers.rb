@@ -1,5 +1,4 @@
-# Math and Numbers
-
+# ------------------------- MATH AND NUMBERS IN RUBY
 
 puts 5 #prints out 5 easiy
 puts 5.32408234

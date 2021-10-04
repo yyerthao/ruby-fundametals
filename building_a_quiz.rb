@@ -1,4 +1,4 @@
-# ---------------------- Building a quiz
+# ---------------------- BUILDING A QUIZ
 
 
 class Question
@@ -34,7 +34,7 @@ def run_test(questions)
   puts ("You got " + score.to_s + "/" + questions.length().to_s)
 end #end run_test
 
-# calling our run_test method 
+# calling our run_test method
 run_test(questions)
 
 

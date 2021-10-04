@@ -1,4 +1,4 @@
-# ----------------------- Overwriting a file
+# ----------------------- OVERWRITING A FILE IN RUBY
 
 # this will replace the whole file with just what we've written in the parenthesis
 File.open("theoffice.txt", "w") do |file|

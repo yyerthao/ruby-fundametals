@@ -1,3 +1,5 @@
+# ------------------------- VARIABLES
+
 
 character_name = "Winston"
 character_age = 30
@@ -26,7 +28,7 @@ puts ("but he didn't like being " + character_age.to_s)
 
 
 
-#ANOTHER SAMPLE OF VARIABLE TYPES 
+#ANOTHER SAMPLE OF VARIABLE TYPES
 name = "Nora"
 occupation = "programmer"
 age = 30
